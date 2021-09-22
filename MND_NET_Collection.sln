@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Collection", "MND_NET_Collection\Collection\0_Collection.csproj", "{5FD7E614-B859-42CF-AED8-7D4C56184035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Collection_Obycajna", "MND_NET_Collection\Collection0\1_Collection_Obycajna.csproj", "{57631350-5347-493B-AB19-FA13809B4472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Collection_Generika", "MND_NET_Collection\Collection2\2_Collection_Generika.csproj", "{76A748FB-0579-411B-A7DA-3DF70FFD3C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Collection", "MND_NET_Collection\Collection4\4_Collection.csproj", "{5432DACD-A985-4BC7-ACBE-C53615BBDA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Collection_Pomocu_yield", "MND_NET_Collection\Collection3\3_Collection_Pomocu_yield.csproj", "{18056253-CBF4-42CB-84BB-E988072B85B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD7E614-B859-42CF-AED8-7D4C56184035}.Debug|x86.ActiveCfg = Debug|x86
+		{5FD7E614-B859-42CF-AED8-7D4C56184035}.Debug|x86.Build.0 = Debug|x86
+		{5FD7E614-B859-42CF-AED8-7D4C56184035}.Release|x86.ActiveCfg = Release|x86
+		{5FD7E614-B859-42CF-AED8-7D4C56184035}.Release|x86.Build.0 = Release|x86
+		{57631350-5347-493B-AB19-FA13809B4472}.Debug|x86.ActiveCfg = Debug|x86
+		{57631350-5347-493B-AB19-FA13809B4472}.Debug|x86.Build.0 = Debug|x86
+		{57631350-5347-493B-AB19-FA13809B4472}.Release|x86.ActiveCfg = Release|x86
+		{57631350-5347-493B-AB19-FA13809B4472}.Release|x86.Build.0 = Release|x86
+		{76A748FB-0579-411B-A7DA-3DF70FFD3C58}.Debug|x86.ActiveCfg = Debug|x86
+		{76A748FB-0579-411B-A7DA-3DF70FFD3C58}.Debug|x86.Build.0 = Debug|x86
+		{76A748FB-0579-411B-A7DA-3DF70FFD3C58}.Release|x86.ActiveCfg = Release|x86
+		{76A748FB-0579-411B-A7DA-3DF70FFD3C58}.Release|x86.Build.0 = Release|x86
+		{5432DACD-A985-4BC7-ACBE-C53615BBDA52}.Debug|x86.ActiveCfg = Debug|x86
+		{5432DACD-A985-4BC7-ACBE-C53615BBDA52}.Debug|x86.Build.0 = Debug|x86
+		{5432DACD-A985-4BC7-ACBE-C53615BBDA52}.Release|x86.ActiveCfg = Release|x86
+		{5432DACD-A985-4BC7-ACBE-C53615BBDA52}.Release|x86.Build.0 = Release|x86
+		{18056253-CBF4-42CB-84BB-E988072B85B8}.Debug|x86.ActiveCfg = Debug|x86
+		{18056253-CBF4-42CB-84BB-E988072B85B8}.Debug|x86.Build.0 = Debug|x86
+		{18056253-CBF4-42CB-84BB-E988072B85B8}.Release|x86.ActiveCfg = Release|x86
+		{18056253-CBF4-42CB-84BB-E988072B85B8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1091E5-0F1F-48CD-879D-4A9E81D2C52A}
+	EndGlobalSection
+EndGlobal
