@@ -28,7 +28,6 @@ namespace Collection
 				Console.WriteLine("{0}, {1}", element.FieldA, element.FieldB);
 			}
 
-			// Delay.
 			Console.ReadKey();
 		}
 	}
